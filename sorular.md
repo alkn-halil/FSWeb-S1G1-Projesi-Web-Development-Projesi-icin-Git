@@ -48,3 +48,5 @@ Git fetch komutu yalnızca komut satırı sözdizimine sahipken, git pull komutu
 8. Merge conflict'i nasıl çözeriz?
 
 Kullanıcının ilk olarak dosyayı açması ve çatışmalı bölümleri bulması gerekir. Daha sonra, çatışmalı bölümleri manuel olarak düzenlemek ve Git'e tekrar birleştirme işlemini yapması gerekir.
+
+deneme
